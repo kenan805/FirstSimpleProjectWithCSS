@@ -1,0 +1,33 @@
+h1 {
+    font: bold 26px Arial, Helvetica, sans-serif;
+    color: #13317F;
+}
+
+p {
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font: bold 22px Arial, Helvetica, sans-serif;
+    color: #13317F;
+
+}
+
+a {
+    font: 13px Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+ul li {
+    font: 18px Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+
+
+
+
